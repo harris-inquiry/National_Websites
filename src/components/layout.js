@@ -37,6 +37,19 @@ const Layout = ({ children }) => (
             <a href="https://www.votarusa.com">VotarUSA.com</a>
           </Col>
         </Row>
+        <h3 style={{marginTop:"1rem"}}>State Websites</h3>
+        <Row>
+          <Col sm>
+            <a href="https://www.AZvote.net">AZvote.net</a>
+            <a href="https://www.Floridavote.net">Floridavote.net</a>
+            <a href="https://www.MIvote.net">MIvote.net</a>
+          </Col>
+          <Col sm>
+            <a href="https://www.NCvote.org">NCvote.org</a>
+            <a href="https://www.PAvote.net">PAvote.net</a>
+            <a href="https://www.Wisconsinvote.net">Wisconsinvote.net</a>
+          </Col>
+        </Row>
       </Container>
     </footer>
   </>

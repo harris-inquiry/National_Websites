@@ -39,14 +39,14 @@
     "initials": "AZ",
     "genInfo": [
       "Early Voting: Oct 7, 2020 - Oct 30, 2020",
-      "In-Person Absentee Voting: Check with your state"
+      "Dates and hours vary by locality. Check with your state's official website"
     ],
     "voterRegistrationDeadlines": [
-      "Mon Oct 5, 2020"
+      "Register by: Mon Oct 15, 2020"
     ],
     "absenteeInfo": [
-      "Deadline to Request an Absentee Ballot: Received by Fri Oct 23, 2020 5:00PM MST",
-      "Deadline to Return Completed Absentee Ballot: Received by Tue Nov 3, 2020 7:00PM MST"
+      "Request an Absentee Ballot: Received by Fri Oct 23, 2020 5:00PM MST",
+      "Return Completed Absentee Ballot: Received by Tue Nov 3, 2020 7:00PM MST"
     ],
     "absenteeLink": "https://azsos.gov/votebymail",
     "earlyVoteLink": ""
@@ -146,15 +146,15 @@
   "Florida": {
     "registerLink": "https://registertovoteflorida.gov/home",
     "genInfo": [
-      "Early Voting: Oct 24, 2020 - Oct 31, 2020",
-      "In-Person Absentee Voting: Check with your state"
+      "Early Voting: Oct 19, 2020 - Nov 1, 2020",
+      "Dates and hours vary by locality. Check with your state's official website"
     ],
     "voterRegistrationDeadlines": [
-      "Mon Oct 5, 2020"
+      "Online, In-Person, & Postmarked: by Tue Oct 6, 2020 7:00pm"
     ],
     "absenteeInfo": [
-      "Deadline to Request an Absentee Ballot: In-Person, Received by Sat Oct 31, 2020",
-      "Deadline to Return Completed Absentee Ballot: Received by Tue Nov 3, 2020 7:00PM EST"
+      "Request an Absentee Ballot: Received by Sat Oct 24, 2020",
+      "Return Absentee Ballot: Received by Tue Nov 3, 2020 7:00PM EST"
     ],
     "initials": "FL",
     "absenteeLink": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/",
@@ -382,18 +382,18 @@
   "Michigan": {
     "registerLink": "https://mvic.sos.state.mi.us/RegisterVoter",
     "genInfo": [
-      "Early Voting: Check with your state",
+      "Early Voting: Sep. 24 - Nov. 2, but dates and hours may vary based on where you live. Check with your local rules",
       "In-Person Absentee Voting: Sep 24, 2020 - Nov 2, 2020"
     ],
     "voterRegistrationDeadlines": [
-      "Post received by Mon Oct 19, 2020",
-      "Election Day Registration & Voting Tue Nov 3, 2020",
-      "In the Election Office by Mon Nov 2, 2020 4:00PM EST",
+      "Postmarked/Online by Mon Oct 19, 2020",
+      "In Person by Tue Nov 3, 2020",
       "Same Day Registration & Voting ends Tue Nov 3, 2020 8:00PM EST"
     ],
     "absenteeInfo": [
-      "Deadline to Request an Absentee Ballot: Received by Fri Oct 30, 2020 5:00PM EDT",
-      "Deadline to Return Completed Absentee Ballot: Post received by Tue Nov 17, 2020"
+      "Request an Absentee Ballot: Received by Fri Oct 30, 2020 5:00PM EDT",
+      "Return Completed Absentee Ballot: Post received by Tue Nov 3, 2020, In Person by 8:00pm",
+      "ALERT! Don't mail in your ballot now. Vote in Person on Nov 3, or go to your County / City Clerk and Vote in Person or drop your sealed, signed ballot off by hand no later than Nov 3"
     ],
     "initials": "MI",
     "absenteeLink": "https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html",
@@ -587,15 +587,16 @@
     "registerLink": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
     "genInfo": [
       "Early Voting: Oct 15, 2020 - Oct 31, 2020",
-      "In-Person Absentee Voting: Check with your state"
+      "Dates and hours vary by locality. Check with your state's official website"
     ],
     "voterRegistrationDeadlines": [
-      "Fri Oct 9, 2020",
+      "Register by: Fri Oct 9, 2020",
       "Same-Day Registration & Voting Available during Early Voting Period"
     ],
     "absenteeInfo": [
-      "Deadline to Request an Absentee Ballot: Tue Oct 27, 2020",
-      "Deadline to Return Completed Absentee Ballot: In-Person, Received by Tue Nov 3, 2020 5:00PM"
+      "Request an Absentee Ballot: Tue Oct 27, 2020",
+      "Return Completed Absentee Ballot: In-Person or Postmarked by Tue Nov 3, 2020 5:00PM",
+      "Received by mail: Nov 12"
     ],
     "initials": "NC",
     "absenteeLink": "https://www.ncsbe.gov/voting/vote-mail",
@@ -672,15 +673,16 @@
   "Pennsylvania": {
     "registerLink": "https://www.pavoterservices.state.pa.us/Pages/VoterRegistrationApplication.aspx",
     "genInfo": [
-      "Early Voting: Check with your state",
-      "In-Person Absentee Voting: Sep 14, 2020"
+      "Early Voting Sep 14 - Oct. 27",
+      "Dates and hours vary based on locality: Check with your local elections office"
     ],
     "voterRegistrationDeadlines": [
-      "Mon Oct 19, 2020"
+      "In-Person and By-Mail: Mon Oct 19, 2020"
     ],
     "absenteeInfo": [
-      "Deadline to Request an Absentee Ballot: Tue Oct 27, 2020 5:00PM EDT",
-      "Deadline to Return Completed Absentee Ballot: Post received by Fri Nov 6, 2020"
+      "Request an Absentee Ballot: Tue Oct 27, 2020 5:00PM EDT",
+      "Return Absentee Ballot by mail: Postmarked by Tuesday Nov 3, received by Fri Nov 6, 2020",
+      "Return Absentee Ballot in person: Nov 3 by 8pm"
     ],
     "initials": "PA",
     "absenteeLink": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
@@ -891,18 +893,19 @@
   "Wisconsin": {
     "registerLink": "https://myvote.wi.gov/en-us/RegisterToVote",
     "genInfo": [
-      "Early Voting: Dates Vary by Locality - Contact your local election office",
+      "Early Voting: Oct. 20 - Nov. 1, Dates Vary by Locality - Contact your local election office",
       "In-Person Absentee Voting: Check with your state"
     ],
     "voterRegistrationDeadlines": [
       "Online by Wed Oct 14, 2020",
       "Postmarked by Wed Oct 14, 2020",
       "Election Day Registration & Voting Tue Nov 3, 2020",
-      "In the Election Office by Fri Oct 30, 2020"
+      "In the Election Office by Fri Oct 30, 2020",
+      "You can register and vote on Election Day"
     ],
     "absenteeInfo": [
-      "Deadline to Request an Absentee Ballot: Indefinitely Confined Voters by Fri Oct 30, 2020 5:00PM CDT",
-      "Deadline to Return Completed Absentee Ballot: Received by Tue Nov 3, 2020 8:00PM"
+      "Request an Absentee Ballot: by Thu Oct 29",
+      "Return Completed Absentee Ballot: Received by Tue Nov 3, 2020 8:00PM"
     ],
     "initials": "WI",
     "absenteeLink": "https://elections.wi.gov/voters/absentee",
