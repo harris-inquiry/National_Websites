@@ -43,6 +43,14 @@ const IndexPage = () => {
           </Col>
         </Row>
       </Banner>
+      <div className="battlegroundStates">
+        <a href="https://www.pennsylvaniavoter.org">PennsylvaniaVoter.org</a>
+        <a href="https://www.MichiganVoter.org">MichiganVoter.org</a>
+        <a href="https://www.NorthCarolinaVoter.org">NorthCarolinaVoter.org</a>
+        <a href="https://www.WisconsinVote.net">WisconsinVote.net</a>
+        <a href="https://www.FloridaVote.net">FloridaVote.net</a>
+        <a href="https://www.ArizonaVotes.net">ArizonaVotes.net</a>
+      </div>
 
       <StateElectionDates/>
 

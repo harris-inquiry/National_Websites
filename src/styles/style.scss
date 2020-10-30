@@ -136,10 +136,28 @@ main {
         right: 0;
         color: white;
         margin-bottom: 0;
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         font-weight: bold;
+        @media (max-width: 400px) {
+          font-size: 1.3rem;
+        }
+        @media (max-width: 380px) {
+          font-size: 1.2rem;
+        }
       }
     }
+  }
+}
+
+.battlegroundStates {
+  padding: 1rem;
+  background: black;
+  display: flex;
+  justify-content: space-between;
+  a {
+    color: white;
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 }
 
