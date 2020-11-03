@@ -154,10 +154,12 @@ main {
   background: black;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   a {
     color: white;
     margin-left: 1rem;
     margin-right: 1rem;
+    font-weight: bold;
   }
 }
 
