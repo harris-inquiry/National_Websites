@@ -34,7 +34,7 @@ const Layout = ({ children }) => (
           <Col sm>
             <a href="https://www.usvoterregistration.com">USVoterRegistration.com</a>
             <a href="https://www.unitedstatesvote.com">UnitedStatesVote.com</a>
-            <a href="https://www.votarusa.com">VotarUSA.com</a>
+            <a href="https://democrats.org/es/">VotarUSA.com</a>
           </Col>
         </Row>
         <h3 style={{marginTop:"1rem"}}>State Websites</h3>
